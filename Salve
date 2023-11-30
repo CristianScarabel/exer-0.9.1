@@ -1,0 +1,9 @@
+<div class="container">
+</div>
+  <h1>Atenção!</h1>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum delectus mollitia exercitationem in quam necessitatibus suscipit? Cum sequi beatae sapiente, amet aliquam necessitatibus iure rerum obcaecati tenetur animi ipsa reprehenderit.</p>
+  <div class="containerbutton">
+ <button>Voltar</button>
+  <button class>Sim, excluir</button>
+  </div>
+</div>
